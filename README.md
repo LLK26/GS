@@ -10,7 +10,7 @@ Com a utilização do ESP32, utilizamos um potenciômetro para simular um medido
 Bibliotecas: DHT sensor library, ArduinoJson e EspMQTTClient.
 
 ## Video Explicativo:
-
+https://drive.google.com/file/d/1M0stF6h6meNzX-1Hq10JlF8Bzpn-TLAR/view?usp=sharing
 
 ## Simulador
 https://wokwi.com/projects/382286400588887041
