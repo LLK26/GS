@@ -9,10 +9,10 @@
 ## Pré-requisitos:
 
 
-## Video Explicativo
+## Video Explicativo:
 
 
-## Integrantes
+## Integrantes:
 RM95384 - Leonardo Dantas Marques;
 RM95246 - Beatriz de Freitas Fernandes;
 RM95988 - Jéssica Souza Felix.
